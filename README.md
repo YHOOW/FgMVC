@@ -18,8 +18,10 @@ Here you can run the main.m function get Handwritten clustering results.
 # Parameters: 
 k_nearest: Number of neighbors
 M_subcluster: Number of subclusters
+
 If you want to obtain clustering results for other datasets, you need to set these two parameters.
 
 # Reference:
 If you find this code useful in your research, please cite the paper.
+
 Yin, H., Wang, G., Hu, W. et al. Fine-grained multi-view clustering with robust multi-prototypes representation. Appl Intell (2022). https://doi.org/10.1007/s10489-022-03898-2
