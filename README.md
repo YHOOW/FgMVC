@@ -5,7 +5,7 @@ This package is implementing the method in Applied Intelligence 2022 paper: Fine
 (Please cite this paper) Please contact 02713@zjhu.edu.cn if you have any questions. 
 
 Thanks a lot for the relevant code provided by Chenglong Wang and Jinglin Xu, and this work is inspired by K-Multiple-Means: A Multiple-Means Clustering Method with Specified K Clusters (KDD2019).   
-The updataC.m and pdist2.m functions are derived from the open source code of Multi-View k-means Clustering with AdaptiveSparse Memberships and Weight Allocation (TKDE2020). 
+The updateC.m and pdist2.m functions are derived from the open source code of Multi-View k-means Clustering with AdaptiveSparse Memberships and Weight Allocation (TKDE2020). 
 
 To show my respect for these studies.
 
