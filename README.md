@@ -10,10 +10,10 @@ The updateC.m and pdist2.m functions are derived from the open source code of Mu
 To show my respect for these studies.
 
 # Short demo
-main.m: you can run this main file, and Its performance will be recorded automatically. 
+main.m: you can run this main file, and its performance will be recorded automatically. 
 
 # Dataset: Handwritten
-Here you can run the main.m function get Handwritten clustering results. 
+You can run the main.m function obtain Handwritten dataset clustering results. 
 
 # Parameters: 
 k_nearest: Number of neighbors
