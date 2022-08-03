@@ -17,6 +17,7 @@ You can run the main.m function obtain Handwritten dataset clustering results.
 
 # Parameters: 
 k_nearest: Number of neighbors
+
 M_subcluster: Number of subclusters
 
 If you want to obtain clustering results for other datasets, you need to set these two parameters.
